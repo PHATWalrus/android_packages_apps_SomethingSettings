@@ -13,7 +13,7 @@
             android:icon="@drawable/ic_traffic"
             android:title="@string/network_traffic_settings_title"
             android:summary="@string/network_traffic_settings_summary"
-            android:fragment="com.crdroid.settings.fragments.statusbar.NetworkTrafficSettings" />
+            android:fragment="org.somethingos.somethingsettings.fragments.statusbar.NetworkTrafficSettings" />
     </PreferenceCategory>
 
 </PreferenceScreen>
